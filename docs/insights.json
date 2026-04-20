@@ -1,0 +1,10 @@
+{
+  "_placeholder": true,
+  "generated_at": "",
+  "headline": "아직 분석 없음",
+  "budget_status": "good",
+  "efficiency_score": 0,
+  "efficiency_reason": "node scripts/generate-insights.js 를 실행해서 AI 분석을 시작하세요",
+  "insights": [],
+  "recommendations": []
+}

@@ -1,0 +1,13 @@
+{
+  "name": "claude-usage-monitor",
+  "version": "1.0.0",
+  "description": "Claude Code personal usage dashboard",
+  "scripts": {
+    "parse":    "node scripts/parse-usage.js",
+    "insights": "node scripts/generate-insights.js",
+    "password": "node scripts/hash-password.js",
+    "sync":     "npm run parse && npm run insights && git add docs/data.json docs/insights.json && git commit -m \"sync: $(date '+%Y-%m-%d %H:%M')\" && git push",
+    "sync-fast":"npm run parse && git add docs/data.json && git commit -m \"sync: $(date '+%Y-%m-%d %H:%M')\" && git push"
+  },
+  "engines": { "node": ">=16" }
+}

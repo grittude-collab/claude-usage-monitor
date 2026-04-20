@@ -1,0 +1,418 @@
+{
+  "meta": {
+    "generated_at": "2026-04-20T05:45:18.336Z",
+    "plan": "max_5x",
+    "monthly_budget": 100,
+    "total_sessions": 9
+  },
+  "current_session": {
+    "id": "ee5001c3-ef1d-40e5-bd5f-8c6b57cea72c",
+    "project": "뉴메드",
+    "model": "claude-sonnet-4-6",
+    "start": "2026-04-20T02:16:26.418Z",
+    "end": "2026-04-20T05:45:16.660Z",
+    "input_tokens": 60,
+    "output_tokens": 123935,
+    "cache_creation_tokens": 179728,
+    "cache_read_tokens": 1948320,
+    "cost_usd": 3.117681,
+    "messages": 41
+  },
+  "summary": {
+    "today": {
+      "cost_usd": 3.12,
+      "input_tokens": 60,
+      "output_tokens": 123935,
+      "messages": 41,
+      "sessions": 1
+    },
+    "this_week": {
+      "cost_usd": 3.12,
+      "input_tokens": 60,
+      "output_tokens": 123935,
+      "messages": 42,
+      "sessions": 2
+    },
+    "this_month": {
+      "cost_usd": 188.96,
+      "input_tokens": 21839,
+      "output_tokens": 2690250,
+      "messages": 3677,
+      "sessions": 9
+    },
+    "all_time": {
+      "cost_usd": 188.96,
+      "input_tokens": 21839,
+      "output_tokens": 2690250,
+      "messages": 3677,
+      "sessions": 9
+    }
+  },
+  "daily": [
+    {
+      "date": "2026-03-22",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-03-23",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-03-24",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-03-25",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-03-26",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-03-27",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-03-28",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-03-29",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-03-30",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-03-31",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-04-01",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-04-02",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-04-03",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-04-04",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-04-05",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-04-06",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-04-07",
+      "cost_usd": 0.052052,
+      "input_tokens": 7,
+      "output_tokens": 314,
+      "sessions": 1
+    },
+    {
+      "date": "2026-04-08",
+      "cost_usd": 88.447271,
+      "input_tokens": 4176,
+      "output_tokens": 1106998,
+      "sessions": 2
+    },
+    {
+      "date": "2026-04-09",
+      "cost_usd": 97.344802,
+      "input_tokens": 17596,
+      "output_tokens": 1459003,
+      "sessions": 4
+    },
+    {
+      "date": "2026-04-10",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-04-11",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-04-12",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-04-13",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-04-14",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-04-15",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-04-16",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-04-17",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 1
+    },
+    {
+      "date": "2026-04-18",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-04-19",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 0
+    },
+    {
+      "date": "2026-04-20",
+      "cost_usd": 3.117681,
+      "input_tokens": 60,
+      "output_tokens": 123935,
+      "sessions": 1
+    }
+  ],
+  "by_model": [
+    {
+      "model": "claude-sonnet-4-6",
+      "cost_usd": 188.96180600000002,
+      "input_tokens": 21839,
+      "output_tokens": 2690250,
+      "sessions": 8
+    },
+    {
+      "model": "<synthetic>",
+      "cost_usd": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "sessions": 1
+    }
+  ],
+  "by_project": [
+    {
+      "project": "PERFORMANCE_Agent",
+      "cost_usd": 97.270326,
+      "sessions": 3,
+      "messages": 1863
+    },
+    {
+      "project": "NPD_Agent",
+      "cost_usd": 88.521747,
+      "sessions": 4,
+      "messages": 1769
+    },
+    {
+      "project": "뉴메드",
+      "cost_usd": 3.1697330000000004,
+      "sessions": 2,
+      "messages": 45
+    }
+  ],
+  "recent_sessions": [
+    {
+      "id": "ee5001c3-ef1d-40e5-bd5f-8c6b57cea72c",
+      "project": "뉴메드",
+      "model": "claude-sonnet-4-6",
+      "start": "2026-04-20T02:16:26.418Z",
+      "end": "2026-04-20T05:45:16.660Z",
+      "input_tokens": 60,
+      "output_tokens": 123935,
+      "cache_creation_tokens": 179728,
+      "cache_read_tokens": 1948320,
+      "cost_usd": 3.117681,
+      "messages": 41
+    },
+    {
+      "id": "36286db4-9cf8-40c0-8e0a-3a992f686b2f",
+      "project": "NPD_Agent",
+      "model": "<synthetic>",
+      "start": "2026-04-17T05:00:35.950Z",
+      "end": "2026-04-17T05:00:36.350Z",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_creation_tokens": 0,
+      "cache_read_tokens": 0,
+      "cost_usd": 0,
+      "messages": 1
+    },
+    {
+      "id": "6b84132d-fc9f-4679-adae-5d540937ec2e",
+      "project": "PERFORMANCE_Agent",
+      "model": "claude-sonnet-4-6",
+      "start": "2026-04-09T06:03:44.784Z",
+      "end": "2026-04-20T05:45:15.478Z",
+      "input_tokens": 17435,
+      "output_tokens": 1365897,
+      "cache_creation_tokens": 6445387,
+      "cache_read_tokens": 164610309,
+      "cost_usd": 94.094054,
+      "messages": 1773
+    },
+    {
+      "id": "f32d4686-aa73-4f95-ae95-5ef030f30628",
+      "project": "PERFORMANCE_Agent",
+      "model": "claude-sonnet-4-6",
+      "start": "2026-04-09T04:40:15.070Z",
+      "end": "2026-04-09T05:55:33.636Z",
+      "input_tokens": 146,
+      "output_tokens": 91897,
+      "cache_creation_tokens": 167503,
+      "cache_read_tokens": 3748684,
+      "cost_usd": 3.131634,
+      "messages": 88
+    },
+    {
+      "id": "334d212e-a241-4d43-8aab-6ce3341b554c",
+      "project": "PERFORMANCE_Agent",
+      "model": "claude-sonnet-4-6",
+      "start": "2026-04-09T04:36:19.311Z",
+      "end": "2026-04-09T04:39:11.552Z",
+      "input_tokens": 6,
+      "output_tokens": 244,
+      "cache_creation_tokens": 9124,
+      "cache_read_tokens": 22484,
+      "cost_usd": 0.044638,
+      "messages": 2
+    },
+    {
+      "id": "357f7d50-60ff-437c-a314-2e74f7c1ae7a",
+      "project": "NPD_Agent",
+      "model": "claude-sonnet-4-6",
+      "start": "2026-04-09T04:20:07.869Z",
+      "end": "2026-04-09T04:23:13.558Z",
+      "input_tokens": 9,
+      "output_tokens": 965,
+      "cache_creation_tokens": 10315,
+      "cache_read_tokens": 70975,
+      "cost_usd": 0.074476,
+      "messages": 5
+    },
+    {
+      "id": "de1ee4e6-bb83-475b-9ac0-92348b43bb8a",
+      "project": "NPD_Agent",
+      "model": "claude-sonnet-4-6",
+      "start": "2026-04-08T08:26:50.611Z",
+      "end": "2026-04-08T08:27:17.334Z",
+      "input_tokens": 3,
+      "output_tokens": 315,
+      "cache_creation_tokens": 4854,
+      "cache_read_tokens": 11249,
+      "cost_usd": 0.026311,
+      "messages": 1
+    },
+    {
+      "id": "67603eff-9b8c-4bf1-954f-ed4e413942d5",
+      "project": "NPD_Agent",
+      "model": "claude-sonnet-4-6",
+      "start": "2026-04-08T06:54:40.326Z",
+      "end": "2026-04-17T01:20:47.552Z",
+      "input_tokens": 4173,
+      "output_tokens": 1106683,
+      "cache_creation_tokens": 6431563,
+      "cache_read_tokens": 158966115,
+      "cost_usd": 88.42096,
+      "messages": 1762
+    },
+    {
+      "id": "cfcd23b3-7336-4f04-83b9-135f9d73e1c0",
+      "project": "뉴메드",
+      "model": "claude-sonnet-4-6",
+      "start": "2026-04-07T03:58:19.169Z",
+      "end": "2026-04-07T04:47:47.738Z",
+      "input_tokens": 7,
+      "output_tokens": 314,
+      "cache_creation_tokens": 9563,
+      "cache_read_tokens": 38198,
+      "cost_usd": 0.052052,
+      "messages": 4
+    }
+  ]
+}
